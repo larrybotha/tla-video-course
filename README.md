@@ -9,3 +9,4 @@ Notes and annotations from Leslie Lamport's TLA+ video course
 ## Additional resources
 
 [learntla.com](https://www.learntla.com/introduction/)
+[TLA+ examples](https://www.hillelwayne.com/post/list-of-tla-examples/)
